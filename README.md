@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fesquii
 - 👀 I’m interested in cars, computers, and creation
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning xcode and python
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: esqafid@icloud.com
 - 😄 Pronouns: Him
